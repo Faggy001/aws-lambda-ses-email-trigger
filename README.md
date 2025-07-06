@@ -83,9 +83,13 @@ Then confirm the verification link sent to your email.
 📌 **Set Up Your Variables**
 
 aws_region      = "your region"
+
 sender_email    = "sender email"
+
 recipient_email = "receiver email"
+
 iam_user        = "your iam_user"
+
 expiry_days     = 
 
 
