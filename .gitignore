@@ -3,3 +3,4 @@ GroupB_lambda_email.zip
 *.tfstate
 *.tfstate.backup
 .terraform.lock.hcl
+terrform.tfvars
